@@ -222,7 +222,7 @@ export default function App() {
           </section>
         )}
       </main>
-      <footer>Online Student Feedback System · AAT-I</footer>
+      <footer>Student Feedback System | AAT-I | 2026</footer>
     </div>
   );
 }
